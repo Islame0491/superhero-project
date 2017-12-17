@@ -1,6 +1,9 @@
-#video{
-    
-    }
-body{
-    background: green;
+#video {}
+
+body {
+    background-color: green;
+}
+
+#title {
+    font-family: 'Shadows Into Light', cursive;
 }
