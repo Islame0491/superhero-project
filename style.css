@@ -1,17 +1,15 @@
-<<<<<<< HEAD
-#video {}
+#video {
+    
+}
 
 body {
-    background-color: green;
+    background-color: #2db802;
 }
 
 #title {
     font-family: 'Shadows Into Light', cursive;
 }
-=======
 
-span {
-    color:pink;
-    ont-family: 'Amatic SC', cursive;
+span{
+    background-color:#f5e100L; 
 }
->>>>>>> f57eea86fa8a0a3964477237fe938e3a71457301
