@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #video {}
 
 body {
@@ -7,3 +8,10 @@ body {
 #title {
     font-family: 'Shadows Into Light', cursive;
 }
+=======
+
+span {
+    color:pink;
+    ont-family: 'Amatic SC', cursive;
+}
+>>>>>>> f57eea86fa8a0a3964477237fe938e3a71457301
