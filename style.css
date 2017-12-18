@@ -2,6 +2,12 @@ body {
     background-color: #28c202;
 }
 
+h1{
+    font-family: 'Shadows Into Light', cursive;
+}
+h2{
+    font-family: 'Gloria Hallelujah', cursive;
+}
 .button {
     font-family: 'Rubik Mono One', sans-serif;
     color: blue;
@@ -11,13 +17,6 @@ body {
     margin: 20px;
     height: 50px;
 }
-
-#padre {
-    width: 10px;
-    height: 10px;
-}
-
-#bat{
-    width: 10px;
-    height: 10px
+span{
+    font-family: 'Rubik Mono One', sans-serif;
 }
