@@ -1,14 +1,12 @@
-#video {
-    
-}
-
-body {
-    background-color: #2db802;
-}
-
-#title {
-    font-family: 'Shadows Into Light', cursive;
-}
-span{
-    background-color:#f5e100L; 
-}
+body{
+    background-color:#28c202;
+    }
+.button{
+    font-family: 'Rubik Mono One', sans-serif;
+    color: blue;
+    font-size: 20px;
+    background: orange;
+    padding: 10px 20px 10px 20px;
+    margin: 20px;
+    height: 50px;
+    }
