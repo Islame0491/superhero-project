@@ -1,7 +1,8 @@
-body{
-    background-color:#28c202;
-    }
-.button{
+body {
+    background-color: #28c202;
+}
+
+.button {
     font-family: 'Rubik Mono One', sans-serif;
     color: blue;
     font-size: 20px;
@@ -9,4 +10,14 @@ body{
     padding: 10px 20px 10px 20px;
     margin: 20px;
     height: 50px;
-    }
+}
+
+#padre {
+    width: 10px;
+    height: 10px;
+}
+
+#bat{
+    width: 10px;
+    height: 10px
+}
